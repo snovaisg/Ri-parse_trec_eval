@@ -1,0 +1,7 @@
+MAP,Model,P10
+0.0821,Analyser@ClassicSimilarity,0.1226
+0.0873,"Lab2_Analyser@BM25(k1=1.2,b=0.75)",0.1161
+0.0725,"StandardAnalyzer@BM25(k1=1.2,b=0.75)",0.1065
+0.0612,StandardAnalyzer@ClassicSimilarity,0.1032
+0.0473,StandardAnalyzer@LM Dirichlet(2000.000000),0.0742
+0.0454,Lab2_Analyser@LM Dirichlet(2000.000000),0.0581
